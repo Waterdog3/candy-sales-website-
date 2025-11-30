@@ -1,0 +1,1 @@
+Its going to be very similar to waffles house remote ordering website. something that takes in card data, calculates the total, and sends the money to a bank account. I do not offer deliever at the moment
